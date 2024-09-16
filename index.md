@@ -6,7 +6,7 @@
 
 ### Defect Detection using Computer Vision
 
-Anomaly Localization is the task of highlighting the defect in an image of a part. In this project I improved the performance of the <a href="https://github.com/zhangzilongc/MMR">Masked Multi-scale Reconstruction</a> model, using a novel masking technique.
+Anomaly Localization is the task of highlighting the defect in an image of a part. In this project I improved the performance of the <a href="https://github.com/zhangzilongc/MMR">Masked Multi-scale Reconstruction</a> model, using a novel masking technique. My improved model is availabe in the following repository <a href="https://github.com/SijuEC/MMR_with_Saliency_Detection">
 
 <img src="images/Part_defect_demo.png?raw=true"/>
 
