@@ -35,9 +35,10 @@ This automated workflow efficiently transformed raw video content into valuable,
 
 ---
 
-## Patient Demographics Dashboard for Targeted Hospital Advertising
+## Targeted Advertising Dashboard for Hospital
 
-I recently completed a pro bono project creating a Dashboard for hospitals in India. This tool allows them to see the geographic and demographic distribution of their patients, helping them craft effective advertisement strategies, such as identifying optimal locations for billboards. This dashboard makes it easier for hospitals to understand their patient base and target their marketing efforts more efficiently.
+I created a Dashboard that allows hospitals in India to see the geographic and demographic distribution of their customers, helping them craft effective advertisement strategies, such as identifying optimal locations for billboards. This dashboard makes it easier for hospitals to understand their patient base and target their marketing efforts more efficiently.
+
+<img src="images/Patient_geo_distribution.png?raw=true"/>
 
 ---
-
