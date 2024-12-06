@@ -35,9 +35,9 @@ This automated workflow efficiently transformed raw video content into valuable,
 
 ---
 
-## Targeted Advertising Dashboard for Hospital
+## Infection Outbreak Dashboard
 
-I created a Dashboard that allows hospitals in India to see the geographic and demographic distribution of their customers, helping them craft effective advertisement strategies, such as identifying optimal locations for billboards. This dashboard makes it easier for hospitals to understand their patient base and target their marketing efforts more efficiently.
+I created a Dashboard that allows hospitals monitor areas for a Real-time indication of a developing infection outbreak. e.g. E. coli, Dengue
 
 <img src="images/Patient_geo_distribution.png?raw=true"/>
 
