@@ -20,21 +20,6 @@ The tool uses FastAPI for the backend, PostgreSQL for the database, and Streamli
 
 ---
 
-## Video to Actionable Insights Workflow
-
-In this project, I created an automated workflow to streamline the analysis of user testing videos for a UX Designer:
-
-1. Extract Audio: Used the moviepy Python library to automatically extract audio from 1-hour-long user testing videos.
-2. Transcribe Audio: Fed the extracted audio to OpenAI's Whisper model, which transcribed the speech into text.
-3. Generate Summaries: Employed the LLaMA model to process the transcripts and generate concise summaries, highlighting key user feedback and improvement suggestions.
-4. Actionable Insights: Compiled these summaries to provide actionable insights, making the user testing data easy to understand and act upon.
-
-This automated workflow efficiently transformed raw video content into valuable, digestible insights.
-
-<img src="images/Transcription_workflow.png?raw=true"/>
-
----
-
 ## Infection Outbreak Dashboard
 
 I created a Dashboard that allows hospitals monitor areas for a Real-time indication of a developing infection outbreak. e.g. E. coli, Dengue
